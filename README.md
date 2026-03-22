@@ -1,12 +1,12 @@
 # Arma 3 PBO Deobfuscator Fixer
 
-Uma ferramenta automatizada em lotes e PowerShell para corrigir o arquivo `config.cpp` e organizar os modelos 3D após a desofuscação de arquivos PBO do Arma 3 com o `DeMikeroObfuscator`.
+Uma ferramenta automatizada para corrigir o arquivo `config.cpp` e organizar os modelos 3D após a desofuscação de arquivos PBO do Arma 3 com o `DeMikeroObfuscator`.
 
 Geralmente, ao desofuscar um mod usando o DeMikeroObfuscator, o `config.cpp` perde nomes e quebra referências de modelos, sendo nomeados genericamente como `deobfuscated_modelXX`. Essa ferramenta varre a estrutura, reconstrói o seu `config.cpp` com as referências originais e renomeia os modelos extraídos corretamente!
 
 ## 🛠️ Conteúdo da Ferramenta
 
-*   **`CorrigirDeobfuscator.exe`**: O executável único que contém o motor lógico da ferramenta já compilado e ofuscado. Basta usá-lo como um atalho "Drag-and-Drop" para processar os arquivos sem complicação.
+*   **`CorrigirDeobfuscator.exe`**: Basta usá-lo como um atalho "Drag-and-Drop" para processar os arquivos sem complicação.
 
 ## 🚀 Como usar em seus projetos
 
