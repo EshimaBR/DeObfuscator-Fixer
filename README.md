@@ -1,4 +1,4 @@
-# Arma 3 PBO Deobfuscator Fixer
+# DeOb-A3 - Arma 3 PBO Deobfuscator Fixer
 
 Uma ferramenta automatizada para corrigir o arquivo `config.cpp` e organizar os modelos 3D após a desofuscação de arquivos PBO do Arma 3 com o `DeMikeroObfuscator`.
 
